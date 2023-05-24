@@ -1,0 +1,131 @@
+@charset "utf-8";
+/* CSS Document */
+
+body{
+	margin:0px;
+}
+header{
+	background-color:rgba(0,0,0,0.9);
+	width:100%;
+	padding:10px;
+		}
+.container{
+	width:80%;
+	margin:0 auto;
+}
+.bnnr-sp{
+	color:rgba(255,255,255,1);
+	padding:10px;
+	font-size:35px;
+	top:50px;
+	}
+nav{
+	margin-top:20px;
+	float:right;
+	position:relative;
+	margin-bottom:0px;
+	bottom:75px;
+	}
+nav a{
+	color:rgba(255,255,255,1);
+	text-decoration:none;
+	padding:20px;
+	text-transform:uppercase;
+}
+.benner{
+	height:700px;
+	background-image:url(../images/benner%20img%27.jpg);
+	width:100%;
+	background-position:center;
+	background-size:cover;
+}
+.black-lyr{
+	height:100%;
+	background-color:rgba(0,0,0,0.5);
+}
+.container-1{
+	width:80%;
+	margin:0 auto;
+}
+.bnnr-h1{
+	color:rgba(255,255,255,1);
+	margin-top:150px;
+	font-size:45px;
+	margin-bottom:0px;
+	font-family:Verdana, Geneva, sans-serif;
+	letter-spacing:5px;
+}
+.bnnr-h2{
+	color: rgba(255,204,0,1);
+	font-family:Verdana, Geneva, sans-serif;
+	font-size:45px;
+	margin-top:0px;
+}
+.bnnr-p{
+	color:rgba(255,255,255,1);
+}
+.btn-bnr{
+	color:rgba(0,0,0,1);
+	background-color:rgba(255,255,255,1);
+	padding:10px 30px;
+	font-family:Georgia, "Times New Roman", Times, serif;
+}
+.container-2{
+	width:80%;
+	margin:0 auto;
+}
+.main-box{
+	height:500px;
+}
+.box{
+	width:50%;
+	height:250px;
+	float:left;
+	margin:11px;
+}
+.box-p{
+	padding:10px;
+	font-size:14px;
+	font-family:Verdana, Geneva, sans-serif;
+}
+.bnnr-h{
+	font-family:Verdana, Geneva, sans-serif;
+	font-size:20px;
+}
+.bnr-btn{
+	color:rgba(255,255,255,1);
+	background-color:rgba(51,51,51,1);
+	padding:10px 30px;
+	top:0px;
+}
+.box-right{
+	width:45%;
+	float:right;
+	top:50px;
+	padding:10px;
+	bottom:45px;
+	
+}
+.bnnr-h3{
+	background-color:rgba(0,0,0,1);
+	color:rgba(255,255,255,1);
+	padding:35px;
+	text-align:center;
+}
+.txtbox{
+	width:80%;
+	padding:10px;
+	
+	}
+	.txtarea{
+		width:80%;
+		padding:10px;
+		height:300px;
+		}
+		.btn{
+			border:none;
+			padding:10px 30px;
+			background-color:rgba(51,51,51,1);
+			color:rgba(255,255,255,1);
+			}	
+			
